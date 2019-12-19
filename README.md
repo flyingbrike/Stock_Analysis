@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/akalia25/Stock_Analysis)](https://repl.it/github/akalia25/Stock_Analysis)
 # Stock_Analysis
 Abstract: The purpose of this script is to conduct statistical/Visualization/Forecasting analysis on stocks. The script runs by asking the user for the list of stocks they would like analyzed.
 
